@@ -1,1 +1,1 @@
-.venv
+# Llama2 RAG Lab
